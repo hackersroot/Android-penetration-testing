@@ -1,2 +1,0 @@
-$ pip install frida-tools
-$ frida --version
