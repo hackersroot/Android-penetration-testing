@@ -6,7 +6,7 @@ $ frida --version
 ## abd configuration 
 $ sudo apt-get install adb
 
-$ adb connect <192.168.x.x:5555>
+$ adb connect 192.168.x.x:5555
 
 $ adb push ca.der /data/local/tmp
 
