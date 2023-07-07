@@ -41,7 +41,7 @@ $ frida-ps -Uai
 $ frida-ps -D 0736027d1d6d3b02
 
 ## For SSl pining Bypass
-$ frida -U -f <package-name> -l script.js
+$ frida -U -f package-name -l script.js
 
 ## for Activity bypass check
 $ adb shell am start -n  Package_Name/Activity_Name
