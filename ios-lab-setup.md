@@ -1,10 +1,10 @@
-##In PC
+## In PC
 Install Sideloadly (for push ipa into device)
 
 Download uncover (https://unc0ver.dev)
 put uncover.ipa file in Sideloadly and push into device.
 
-##In ios Device
+## In ios Device
 
 Open uncover and click on jailbreak.
 After completion, Open "Cydia" Search for Mterminal
